@@ -26,3 +26,11 @@ body {
   background-color: white;
   margin: 20px;
 }
+
+.header a:hover {
+  text-decoration: underline;
+}
+
+button:hover {
+  background-color: #0056b3;
+}
